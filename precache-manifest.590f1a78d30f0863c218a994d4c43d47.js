@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "762b17ed6929f3a115f8ff92a41d2d83",
+    "revision": "b21bbc0edd0184a865500c318cef1150",
     "url": "/Travel-agency-site/index.html"
   },
   {
-    "revision": "3a69b3e29e561554e933",
-    "url": "/Travel-agency-site/static/css/main.36301f28.chunk.css"
+    "revision": "f237479d206c20a8f843",
+    "url": "/Travel-agency-site/static/css/main.e1bb915d.chunk.css"
   },
   {
     "revision": "8adb14ba2128989f9be8",
     "url": "/Travel-agency-site/static/js/2.563c956a.chunk.js"
   },
   {
-    "revision": "3a69b3e29e561554e933",
-    "url": "/Travel-agency-site/static/js/main.4b77546f.chunk.js"
+    "revision": "f237479d206c20a8f843",
+    "url": "/Travel-agency-site/static/js/main.9b16b2b8.chunk.js"
   },
   {
     "revision": "e1b69b3c2c94db1f9eb8",
